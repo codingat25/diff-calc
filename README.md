@@ -1,2 +1,2 @@
 # diff-calc
-a simple app to calculate salary, bonus, insurance payments, withholding tax differential
+a simple app to calculate salaries, bonuses, insurance payments, withholding tax differential
